@@ -50,9 +50,9 @@ body{
   align-items: center;
 }
 #no-btn {
-  height: 120px;
+  height: 80pxpx;
   width: 80px;
-  border-radius: 40px;  
+  border-radius: 20px;  
   border: 1px solid black;
   color: white;
   background-color: rgb(5, 45, 190);
